@@ -1,0 +1,2 @@
+1. Start the autogen Studio:
+autogenstudio ui --port 8081
